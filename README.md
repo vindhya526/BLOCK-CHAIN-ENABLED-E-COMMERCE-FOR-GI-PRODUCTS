@@ -15,8 +15,13 @@ Blockchain's immutable ledger records all transactions and movements, providing 
 
 PROPOSED SYSTEM:
 This system aims to ensure the authenticity and traceability of GI-tagged products sold online using QR codes and blockchain technology.
-Product Registration: Each GI-tagged product receives a unique identifier linked to its specific details (origin, production methods, etc.). This information is registered on a blockchain.
-QR Code Generation: A unique QR code is generated that directly links to the product's record on the blockchain. This code is printed on the product's packaging.
+
+Product Registration: Each GI-tagged product receives a unique identifier linked to its specific details (origin, production methods, etc.). 
+This information is registered on a blockchain.
+
+QR Code Generation: A unique QR code is generated that directly links to the product's record on the blockchain. 
+This code is printed on the product's packaging.
+
 Consumer Verification Process:
 Customers scan the QR code on a GI-tagged product using their smartphone camera app.
 The scan triggers an interaction with a blockchain verification app or website.
